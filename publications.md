@@ -8,13 +8,11 @@ title: Publications
 
 ### Publications
 
-- **Xiangting Li** and Tom Chou, [Stochastic nucleosome disassembly mediated by remodelers and histone fragmentation](https://doi.org/10.1063/5.0165136),  _Journal of Chemical Physics_, (2023). 
+- Luecke, S., xxxx **Guo, X.**, Hoffmann, A. (2023). Tonic TNF conditioning of macrophages safeguards stimulus-specific inflammatory responses,  _EMBO reports_, (2023). [DOI: 10.15252/embr.202255986](https://www.embopress.org/doi/full/10.15252/embr.202255986).
 
 
 \* Denotes co-first authorship
 
 ### Talks and Presentations
-- JMM 2024 (AMS Special Session on Mathematics of DNA and RNA), The role of APOBEC3-induced mutations in the differential evolution of monkeypox virus, San Francisco, California, January 3, 2022.
-- ICSB 2023 (Dyn. 15), Population overcompensation, transients, and oscillations in age-structured Lotka-Volterra models, Hartford, Connecticut, October 10, 2023.
-- APS March Meeting 2023 (D08.00003), Stochastic dynamics and ribosome-RNAP interactions in Transcription-Translation Coupling, Las Vegas, Nevada, March 06, 2023.
+
 
