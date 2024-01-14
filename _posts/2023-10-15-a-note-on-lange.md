@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Notes example"
-date:   2023-xx-xx 21:21:21 +0530
+date:   2023-10-15 21:21:21 +0530
 tags: [stochastic]
 ---
 > This at UCLA.
